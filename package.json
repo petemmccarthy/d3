@@ -1,0 +1,20 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "d3 playground",
+  "main": "index.js",
+  "dependencies": {
+    "browser-sync": "^2.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petemmccarthy/d3.git"
+  },
+  "keywords": [],
+  "author": "Pete M McCarthy",
+  "license": "ISC"
+}
